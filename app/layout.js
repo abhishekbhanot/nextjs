@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
       {children}
       
       <footer className="bg-gray-800 text-white text-center p-4 mt-8">
-              © 2025 Sari App | MountainKid AI
+              ©rfec club
             </footer>
       </body>
     </html>
