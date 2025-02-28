@@ -12,15 +12,10 @@ export default function RootLayout({ children }) {
 
       <body >
       
-      <header className="bg-gray-800 text-white p-4 text-center">
-              We will be releasing version 1.1.0 soon...
-            </header>
-      
+   
       {children}
       
-      <footer className="bg-gray-800 text-white text-center p-4 mt-8">
-              ©rfec club
-            </footer>
+   
       </body>
     </html>
   );
